@@ -6,3 +6,5 @@ The user's to-do list is stored in the local storage, so when he refreshes the p
 There is the possibility for the user, to clear the list, by clicking the button clear, at the top right corner.
 
 The to do list app, shows the today's date to the user, for that we're using a method called toLocaleDateString, which you can read about here: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/toLocaleDateString
+
+![to do list](https://user-images.githubusercontent.com/91079997/161575303-7d1710a4-33b4-40e6-a582-b439cc80d67b.png)
